@@ -4,3 +4,7 @@ This is homework for the course.
 Новая информация
 Новая запись для проверки
 Добавление некоторых файлов из урока
+add readme
+initial commit
+simple test case added
+homework from previous module
